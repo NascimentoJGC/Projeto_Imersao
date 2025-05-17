@@ -1,5 +1,8 @@
 # Chatbot de Ensino: 
 # O Seu Assistente para Aulas Incríveis! 🚀
+
+O Chatbot de Planos de Aula é uma solução inovadora, desenvolvida para auxiliar educadores de todas as áreas na criação de planos de aula eficientes e personalizados. Utilizando o poder da Inteligência Artificial, esta ferramenta permite que os professores otimizem seu tempo, reduzam o estresse associado ao planejamento e foquem no que realmente importa: a qualidade do ensino e o sucesso dos alunos.
+
 O assistente virtual que vai transformar a maneira como você cria suas aulas.
 
 * Professores, digam adeus ao estresse dos planos de aula! 🤯
